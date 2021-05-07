@@ -1,0 +1,32 @@
+.mini
+{
+    height: 116px;
+    width: 154px;
+}
+.slajd
+{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 1% 0.5%;
+    margin: 1%;
+}
+.slajd:hover
+{
+    background: #45525a;
+}
+.galeria
+{
+    margin: auto;
+    width: 90%;
+}
+section
+{
+    clear: both;
+}
+img
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
